@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../front-end/boolgram/.idea/boolgram.iml" filepath="$PROJECT_DIR$/../../front-end/boolgram/.idea/boolgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/boolgram-backend.iml" filepath="$PROJECT_DIR$/.idea/boolgram-backend.iml" />
+    </modules>
+  </component>
+</project>

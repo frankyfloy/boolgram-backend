@@ -68,6 +68,6 @@ class AuthController extends Controller
     }
 
     public function index(){
-        echo "Stub Auth Token";
+        echo "HELLO WORLD";
     }
 }
